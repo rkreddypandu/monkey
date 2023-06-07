@@ -1,6 +1,6 @@
 bson
 python-dateutil
-tornado==5.1.1
+tornado==6.3.2
 werkzeug
 jinja2
 markupsafe
